@@ -25,3 +25,5 @@ This Power BI dashboard analyzes customer behavior using data processed in Postg
 
 ## Download the Dashboard
 
+https://github.com/Sammyjayyy/customer-dashboard-sql-powerbi/blob/main/customer%20behavior%20analysis.pbix
+
