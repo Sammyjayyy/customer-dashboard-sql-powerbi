@@ -16,7 +16,7 @@ This Power BI dashboard analyzes customer behavior using data processed in Postg
 
 - Creative professionals exhibit the highest spending scores.
 - Spending behavior is consistent across different income levels.
-- The 26–35 age group demonstrates the highest spending tendencies.
+- The 18–25 age group demonstrates the highest spending tendencies.
 
 ## Tools Used
 
@@ -40,11 +40,12 @@ The raw dataset was cleaned using Power BI Query Editor before analysis. Key ste
 ## Recommendations
 
 Based on insights from the analysis, here are some strategic recommendations:
-- Target Entertainment & Artist professions: These groups have high spending behavior.
-- Focus on customers aged 18–25: This segment shows the highest average spending score.
-- Promote to families of 3–5 members: These groups spend more than others.
-- Investigate low spending in Upper-Mid income group: Could be untapped opportunity or data quality issue.
 
+- Explore marketing campaigns targeted at creative professionals such as Artists and those in Entertainment, as they show the highest spending scores.
+- Consider personalized strategies for the 36–44 age group, which has the lowest average spending score among all age brackets.
+- Maintain a balanced approach across gender and income levels, since spending behavior appears consistent across both categories — this may suggest other non-demographic factors influence spending.
+- Continue exploring behavioral or interest-based segmentation, as traditional demographics (like income and gender) alone may not fully explain spending patterns.
+  
  ## Data Source
 
 https://www.kaggle.com/datasets/datascientistanna/customers-dataset
