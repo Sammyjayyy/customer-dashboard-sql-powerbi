@@ -27,3 +27,21 @@ This Power BI dashboard analyzes customer behavior using data processed in Postg
 
 https://github.com/Sammyjayyy/customer-dashboard-sql-powerbi/blob/main/customer%20behavior%20analysis.pbix
 
+##Data Cleaning Steps##
+
+The raw dataset was cleaned using Power BI Query Editor before analysis. Key steps included:
+	•	Removed null values: Dropped records with missing Spending Score and Annual Income.
+	•	Handled missing professions: Replaced nulls in Profession with "Unknown".
+	•	Created new columns: Derived columns like Age Group, Income Level, and grouped Family Size.
+	•	Standardized formatting: Ensured consistent data types across all fields.
+
+⸻
+
+##Recommendations##
+
+Based on insights from the analysis, here are some strategic recommendations:
+	•	Target Entertainment & Artist professions: These groups have high spending behavior.
+	•	Focus on customers aged 18–25: This segment shows the highest average spending score.
+	•	Promote to families of 3–5 members: These groups spend more than others.
+	•	Investigate low spending in Upper-Mid income group: Could be untapped opportunity or data quality issue.
+
